@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entitygroups>
+
+    <entitygroup name="ZombiesAll">
+        <entity name="zombieBoe" />
+        <entity name="zombieBoe2" />
+		<entity name="zombieBoe3" />
+		<entity name="zombieBoe4" />
+
+        <entity name="zombieJoe" />
+		<entity name="zombieJoe2" />
+		<entity name="zombieJoe3" />
+		<entity name="zombieJoe4" />
+
+        <entity name="zombieMoe" />
+		<entity name="zombieMoe2" />
+		<entity name="zombieMoe3" />
+		<entity name="zombieMoe4" />
+
+		<entity name="zombieArlene" />
+		<entity name="zombieArlene2" />
+		<entity name="zombieArlene3" />
+		<entity name="zombieArlene4" />
+		
+		<entity name="zombieScreamer1" />
+		<entity name="zombieScreamer2" />
+		<entity name="zombieScreamer3" />
+		<entity name="zombieScreamer4" />
+
+		<entity name="zombieDarlene" />
+		<entity name="zombieDarlene2" />
+		<entity name="zombieDarlene3" />
+		<entity name="zombieDarlene4" />
+
+		<entity name="zombieMarlene" />
+		<entity name="zombieMarlene2" />
+		<entity name="zombieMarlene3" />
+		<entity name="zombieMarlene4" />
+
+		<entity name="zombieYo" />
+		<entity name="zombieYo2" />
+		<entity name="zombieYo3" />
+		<entity name="zombieYo4" />
+
+        <entity name="zombieSteve" />
+        <entity name="zombieSteve2" />
+		<entity name="zombieSteve3" />
+		<entity name="zombieSteve4" />
+
+		<entity name="spiderzombie"/>
+		<entity name="spiderzombie2"/>
+		<entity name="spiderzombie3"/>
+		<entity name="spiderzombie4"/>
+
+		<entity name="zombieNurse" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieNurse3" />
+		<entity name="zombieNurse4" />
+
+    </entitygroup>
+
+
+	
+    <entitygroup name="ZombiesNight">
+        <entity name="zombieBoe" />
+        <entity name="zombieBoe2" />
+		<entity name="zombieBoe3" />
+		<entity name="zombieBoe4" />
+
+        <entity name="zombieJoe" />
+		<entity name="zombieJoe2" />
+		<entity name="zombieJoe3" />
+		<entity name="zombieJoe4" />
+
+        <entity name="zombieMoe" />
+		<entity name="zombieMoe2" />
+		<entity name="zombieMoe3" />
+		<entity name="zombieMoe4" />
+
+		<entity name="zombieArlene" />
+		<entity name="zombieArlene2" />
+		<entity name="zombieArlene3" />
+		<entity name="zombieArlene4" />
+		
+		<entity name="zombieScreamer1" />
+		<entity name="zombieScreamer2" />
+		<entity name="zombieScreamer3" />
+		<entity name="zombieScreamer4" />
+
+		<entity name="zombieDarlene" />
+		<entity name="zombieDarlene2" />
+		<entity name="zombieDarlene3" />
+		<entity name="zombieDarlene4" />
+
+		<entity name="zombieMarlene" />
+		<entity name="zombieMarlene2" />
+		<entity name="zombieMarlene3" />
+		<entity name="zombieMarlene4" />
+
+		<entity name="zombieYo" />
+		<entity name="zombieYo2" />
+		<entity name="zombieYo3" />
+		<entity name="zombieYo4" />
+
+        <entity name="zombieSteve" />
+        <entity name="zombieSteve2" />
+		<entity name="zombieSteve3" />
+		<entity name="zombieSteve4" />
+
+		<entity name="spiderzombie"/>
+		<entity name="spiderzombie2"/>
+		<entity name="spiderzombie3"/>
+		<entity name="spiderzombie4"/>
+
+		<entity name="burntzombie" />
+		<entity name="burntzombie2" />
+		<entity name="burntzombie3" />
+		<entity name="burntzombie4" />
+
+		<entity name="zombieNurse" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieNurse3" />
+		<entity name="zombieNurse4" />
+
+    </entitygroup>
+
+    <entitygroup name="ZombiesBurning">
+		<entity name="burntzombie" />
+		<entity name="burntzombie2" />
+		<entity name="burntzombie3" />
+		<entity name="burntzombie4" />
+    </entitygroup>
+    
+    
+    <entitygroup name="ZombiesWasteland">
+		<entity name="fatzombiecop" />
+		<entity name="fatzombiecop2" />
+		<entity name="fatzombiecop3" />
+		<entity name="fatzombiecop4" />		
+
+		<entity name="zombieBoe" />
+        <entity name="zombieBoe2" />
+		<entity name="zombieBoe3" />
+		<entity name="zombieBoe4" />
+
+        <entity name="zombieJoe" />
+		<entity name="zombieJoe2" />
+		<entity name="zombieJoe3" />
+		<entity name="zombieJoe4" />
+
+        <entity name="zombieMoe" />
+		<entity name="zombieMoe2" />
+		<entity name="zombieMoe3" />
+		<entity name="zombieMoe4" />
+
+		<entity name="zombieArlene" />
+		<entity name="zombieArlene2" />
+		<entity name="zombieArlene3" />
+		<entity name="zombieArlene4" />
+		
+		<entity name="zombieScreamer1" />
+		<entity name="zombieScreamer2" />
+		<entity name="zombieScreamer3" />
+		<entity name="zombieScreamer4" />
+
+		<entity name="zombieDarlene" />
+		<entity name="zombieDarlene2" />
+		<entity name="zombieDarlene3" />
+		<entity name="zombieDarlene4" />
+
+		<entity name="zombieMarlene" />
+		<entity name="zombieMarlene2" />
+		<entity name="zombieMarlene3" />
+		<entity name="zombieMarlene4" />
+
+		<entity name="zombieYo" />
+		<entity name="zombieYo2" />
+		<entity name="zombieYo3" />
+		<entity name="zombieYo4" />
+
+        <entity name="zombieSteve" />
+        <entity name="zombieSteve2" />
+		<entity name="zombieSteve3" />
+		<entity name="zombieSteve4" />
+
+		<entity name="spiderzombie"/>
+		<entity name="spiderzombie2"/>
+		<entity name="spiderzombie3"/>
+		<entity name="spiderzombie4"/>
+
+		<entity name="zombieNurse" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieNurse3" />
+		<entity name="zombieNurse4" />
+    </entitygroup>	
+    
+    <entitygroup name="ZombiesWastelandNight">
+		<entity name="zombieferal" />
+		<entity name="zombieferal2" />
+		<entity name="zombieferal3" />
+		<entity name="zombieferal4" />
+
+		<entity name="fatzombiecop" />
+		<entity name="fatzombiecop2" />
+		<entity name="fatzombiecop3" />
+		<entity name="fatzombiecop4" />		
+
+		<entity name="zombieBoe" />
+        <entity name="zombieBoe2" />
+		<entity name="zombieBoe3" />
+		<entity name="zombieBoe4" />
+
+        <entity name="zombieJoe" />
+		<entity name="zombieJoe2" />
+		<entity name="zombieJoe3" />
+		<entity name="zombieJoe4" />
+
+        <entity name="zombieMoe" />
+		<entity name="zombieMoe2" />
+		<entity name="zombieMoe3" />
+		<entity name="zombieMoe4" />
+
+		<entity name="zombieArlene" />
+		<entity name="zombieArlene2" />
+		<entity name="zombieArlene3" />
+		<entity name="zombieArlene4" />
+		
+		<entity name="zombieScreamer1" />
+		<entity name="zombieScreamer2" />
+		<entity name="zombieScreamer3" />
+		<entity name="zombieScreamer4" />
+
+		<entity name="zombieDarlene" />
+		<entity name="zombieDarlene2" />
+		<entity name="zombieDarlene3" />
+		<entity name="zombieDarlene4" />
+
+		<entity name="zombieMarlene" />
+		<entity name="zombieMarlene2" />
+		<entity name="zombieMarlene3" />
+		<entity name="zombieMarlene4" />
+
+		<entity name="zombieYo" />
+		<entity name="zombieYo2" />
+		<entity name="zombieYo3" />
+		<entity name="zombieYo4" />
+
+        <entity name="zombieSteve" />
+        <entity name="zombieSteve2" />
+		<entity name="zombieSteve3" />
+		<entity name="zombieSteve4" />
+
+		<entity name="spiderzombie"/>
+		<entity name="spiderzombie2"/>
+		<entity name="spiderzombie3"/>
+		<entity name="spiderzombie4"/>
+
+		<entity name="burntzombie" />
+		<entity name="burntzombie2" />
+		<entity name="burntzombie3" />
+		<entity name="burntzombie4" />
+
+		<entity name="zombieNurse" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieNurse3" />
+		<entity name="zombieNurse4" />
+    </entitygroup>
+    
+    <entitygroup name="ZombiesWastelandNight2">
+		<entity name="zombieferal" />
+		<entity name="zombieferal2" />
+		<entity name="zombieferal3" />
+		<entity name="zombieferal4" />
+
+		<entity name="fatzombiecop" />
+		<entity name="fatzombiecop2" />
+		<entity name="fatzombiecop3" />
+		<entity name="fatzombiecop4" />
+
+		<entity name="zombieBoe" />
+        <entity name="zombieBoe2" />
+		<entity name="zombieBoe3" />
+		<entity name="zombieBoe4" />
+
+        <entity name="zombieJoe" />
+		<entity name="zombieJoe2" />
+		<entity name="zombieJoe3" />
+		<entity name="zombieJoe4" />
+
+        <entity name="zombieMoe" />
+		<entity name="zombieMoe2" />
+		<entity name="zombieMoe3" />
+		<entity name="zombieMoe4" />
+
+		<entity name="zombieArlene" />
+		<entity name="zombieArlene2" />
+		<entity name="zombieArlene3" />
+		<entity name="zombieArlene4" />
+		
+		<entity name="zombieScreamer1" />
+		<entity name="zombieScreamer2" />
+		<entity name="zombieScreamer3" />
+		<entity name="zombieScreamer4" />
+
+		<entity name="zombieDarlene" />
+		<entity name="zombieDarlene2" />
+		<entity name="zombieDarlene3" />
+		<entity name="zombieDarlene4" />
+
+		<entity name="zombieMarlene" />
+		<entity name="zombieMarlene2" />
+		<entity name="zombieMarlene3" />
+		<entity name="zombieMarlene4" />
+
+		<entity name="zombieYo" />
+		<entity name="zombieYo2" />
+		<entity name="zombieYo3" />
+		<entity name="zombieYo4" />
+
+        <entity name="zombieSteve" />
+        <entity name="zombieSteve2" />
+		<entity name="zombieSteve3" />
+		<entity name="zombieSteve4" />
+
+		<entity name="spiderzombie"/>
+		<entity name="spiderzombie2"/>
+		<entity name="spiderzombie3"/>
+		<entity name="spiderzombie4"/>
+
+		<entity name="burntzombie" />
+		<entity name="burntzombie2" />
+		<entity name="burntzombie3" />
+		<entity name="burntzombie4" />
+
+		<entity name="zombieNurse" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieNurse3" />
+		<entity name="zombieNurse4" />
+    </entitygroup>
+	
+    <entitygroup name="ZombiesHoard">
+		<entity name="fatzombiecop" />
+		<entity name="fatzombiecop2" />
+		<entity name="fatzombiecop3" />
+		<entity name="fatzombiecop4" />		
+
+		<entity name="zombieBoe" />
+        <entity name="zombieBoe2" />
+		<entity name="zombieBoe3" />
+		<entity name="zombieBoe4" />
+
+        <entity name="zombieJoe" />
+		<entity name="zombieJoe2" />
+		<entity name="zombieJoe3" />
+		<entity name="zombieJoe4" />
+
+        <entity name="zombieMoe" />
+		<entity name="zombieMoe2" />
+		<entity name="zombieMoe3" />
+		<entity name="zombieMoe4" />
+
+		<entity name="zombieArlene" />
+		<entity name="zombieArlene2" />
+		<entity name="zombieArlene3" />
+		<entity name="zombieArlene4" />
+		
+		<entity name="zombieScreamer1" />
+		<entity name="zombieScreamer2" />
+		<entity name="zombieScreamer3" />
+		<entity name="zombieScreamer4" />
+
+		<entity name="zombieDarlene" />
+		<entity name="zombieDarlene2" />
+		<entity name="zombieDarlene3" />
+		<entity name="zombieDarlene4" />
+
+		<entity name="zombieMarlene" />
+		<entity name="zombieMarlene2" />
+		<entity name="zombieMarlene3" />
+		<entity name="zombieMarlene4" />
+
+		<entity name="zombieYo" />
+		<entity name="zombieYo2" />
+		<entity name="zombieYo3" />
+		<entity name="zombieYo4" />
+
+        <entity name="zombieSteve" />
+        <entity name="zombieSteve2" />
+		<entity name="zombieSteve3" />
+		<entity name="zombieSteve4" />
+
+		<entity name="spiderzombie"/>
+		<entity name="spiderzombie2"/>
+		<entity name="spiderzombie3"/>
+		<entity name="spiderzombie4"/>
+
+		<entity name="zombieNurse" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieNurse3" />
+		<entity name="zombieNurse4" />
+		
+		<entity name="snowzombie" />
+		<entity name="snowzombie2" />
+		<entity name="snowzombie3" />
+		<entity name="snowzombie4" />
+    </entitygroup>
+
+	<entitygroup name="ZombieScouts">
+		<entity name="zombieScreamer" />
+	</entitygroup>
+
+  <entitygroup name="ZombiesCrawlers">
+        <entity name="zombieSteve" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieYo2" />
+		<entity name="zombieMarlene4" />
+  </entitygroup>
+
+  <entitygroup name="ZombiesBurntForest">
+		<entity name="burntzombie" />
+		<entity name="burntzombie2" />
+		<entity name="burntzombie3" />
+		<entity name="burntzombie4" />
+  </entitygroup>
+    
+    <entitygroup name="SnowZombies">
+		<entity name="snowzombie" />
+		<entity name="snowzombie2" />
+		<entity name="snowzombie3" />
+		<entity name="snowzombie4" />
+    </entitygroup>    		
+	
+    <entitygroup name="ZombiesBoss">
+		<entity name="fatzombiecop" />
+		<entity name="fatzombiecop2" />
+		<entity name="fatzombiecop3" />
+		<entity name="fatzombiecop4" />
+    </entitygroup>	
+	
+    <entitygroup name="ZombiesFeral">
+		<entity name="zombieferal" />
+		<entity name="zombieferal2" />
+		<entity name="zombieferal3" />
+		<entity name="zombieferal4" />
+    </entitygroup>
+
+  <entitygroup name="ZombiesCave">
+    <entity name="zombieJoe" prob="0.05"/>
+    <entity name="zombieSteve" prob="0.05"/>
+    <entity name="zombieMoe" prob="0.05"/>
+    <entity name="zombieYo" prob="0.05"/>
+    <entity name="zombieferal" prob="0.01"/>
+  </entitygroup>
+
+    <entitygroup name="AnimalsSmall">
+        <entity name="animalRabbit" />
+		<entity name="animalChicken" />
+    </entitygroup>
+    
+    <entitygroup name="AnimalsFarm">
+        <entity name="animalPig" />
+		<entity name="animalChicken" />
+    </entitygroup>
+	
+    <entitygroup name="AnimalsBig">
+        <entity name="animalStag" />
+    </entitygroup>   
+    
+    <entitygroup name="AnimalsAll" >        
+    	<entity name="animalRabbit" prob="0.35"/>
+		<entity name="animalChicken" prob="0.35"/>
+        <entity name="animalStag" prob="0.15"/>
+        <entity name="animalPig" prob="0.14"/>
+        <entity name="animalBear" prob="0.01" />
+    </entitygroup>    
+	
+    <entitygroup name="HornetGroup">
+        <entity name="zombieSteve" />
+    </entitygroup>	
+	
+    <entitygroup name="ZombieDogGroup">
+        <entity name="zombieSteve" />
+    </entitygroup>	
+
+    <entitygroup name="SupplyCrates_General">
+		<entity name="sc_General" />		
+    </entitygroup>
+	
+    <entitygroup name="PoliceStation">
+        <entity name="zombieInmate" prob="0.3"/>
+		<entity name="policestationCop" prob="0.6"/>
+		<entity name="policestationCop2" prob="0.1"/>
+    </entitygroup>
+	
+    <entitygroup name="RangerStation">
+        <entity name="animalPig" prob="0.2"/>
+        <entity name="animalStag" prob="0.2"/>
+        <entity name="zombieRanger" prob="0.6"/>
+    </entitygroup>
+	
+    <entitygroup name="GunStore">
+        <entity name="gunstoreOwner" prob="0.1"/>
+        <entity name="zombieGunNut" prob="0.6"/>
+		<entity name="zombieMoe" prob="0.3"/>
+    </entitygroup>
+
+    <entitygroup name="FoodStore">
+        <entity name="zombieBoe" />
+        <entity name="zombieJoe" />
+		<entity name="zombieJoe2" />
+        <entity name="zombieMoe" />
+		<entity name="zombieMoe3" />
+		<entity name="zombieArlene" />
+		<entity name="zombieArlene4" />
+		<entity name="zombieScreamer1" />
+		<entity name="zombieScreamer4" />
+		<entity name="zombieDarlene" />
+		<entity name="zombieDarlene2" />
+		<entity name="zombieMarlene4" />
+		<entity name="zombieYo3" />
+		<entity name="spiderzombie"/>
+    </entitygroup>
+
+    <entitygroup name="PharmacyStore">
+		<entity name="zombieNurse" />
+		<entity name="zombieNurse2" />
+		<entity name="zombieNurse3" />
+		<entity name="zombieNurse4" />
+        <entity name="zombieBoe" />
+		<entity name="zombieJoe2" />
+		<entity name="zombieArlene4" />
+		<entity name="spiderzombie"/>
+    </entitygroup>
+	
+    <entitygroup name="HardwareStore">
+        <entity name="zombieBoe" />
+        <entity name="zombieJoe" />
+        <entity name="zombieSteve" />
+        <entity name="zombieMoe" />
+        <entity name="zombieYo" />
+		<entity name="zombieHandyman" />
+    </entitygroup>
+	
+    <entitygroup name="Farm">
+        <entity name="animalPig" prob="0.35"/>
+		<entity name="animalChicken" prob="0.3"/>
+        <entity name="zombieFarmer" prob="0.15"/>
+        <entity name="zombieFarmer2" prob="0.15"/>
+    	<entity name="animalRabbit" prob="0.025"/>
+        <entity name="animalStag" prob="0.025"/>
+    </entitygroup>
+	
+    <entitygroup name="Cabin">
+        <entity name="animalPig" prob="0.3"/>
+        <entity name="animalStag" prob="0.3"/>
+		<entity name="animalChicken" prob="0.1"/>
+        <entity name="zombieBoe" prob="0.05"/>
+		<entity name="zombieJoe2" prob="0.05"/>
+		<entity name="zombieArlene" prob="0.05"/>
+		<entity name="zombieDarlene2" prob="0.05"/>
+		<entity name="zombieMarlene4" prob="0.05"/>
+		<entity name="zombieYo3" prob="0.05"/>
+    </entitygroup>
+	
+    <entitygroup name="CampsiteCommon">
+		<entity name="animalChicken" prob="0.25"/>
+        <entity name="zombieCamper" prob="0.25"/>
+		<entity name="zombieCamper2" prob="0.2"/>
+        <entity name="animalPig" prob="0.2"/>
+        <entity name="animalStag" prob="0.1"/>
+    </entitygroup>
+	
+    <entitygroup name="CampsiteLarge">
+        <entity name="zombieRanger" prob="0.3"/>
+        <entity name="zombieCamper" prob="0.2"/>
+		<entity name="zombieCamper2" prob="0.2"/>
+		<entity name="animalChicken" prob="0.15"/>
+        <entity name="animalPig" prob="0.1"/>
+        <entity name="animalStag" prob="0.05"/>
+    </entitygroup>
+	
+	
+</entitygroups>
