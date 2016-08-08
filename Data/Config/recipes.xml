@@ -647,19 +647,19 @@ tooltip?
 	<ingredient name="cloth" count="10"/>
 </recipe>
 
-<recipe name="scrapBoots" count="1" scrapable="False" >
+<recipe name="scrapBoots" count="1" scrapable="False" craft_area="workbench" >
 	<ingredient name="scrapIron" count="5"/>
 	<ingredient name="leather" count="2"/>
 	<ingredient name="ductTape" count="1"/>
 </recipe>
 
-<recipe name="scrapChestArmor" count="1" scrapable="False" >
+<recipe name="scrapChestArmor" count="1" scrapable="False" craft_area="workbench" >
 	<ingredient name="scrapIron" count="10"/>
 	<ingredient name="leather" count="5"/>
 	<ingredient name="ductTape" count="3"/>
 </recipe>
 
-<recipe name="scrapGloves" count="1" scrapable="False" >
+<recipe name="scrapGloves" count="1" scrapable="False" craft_area="workbench" >
 	<ingredient name="scrapIron" count="5"/>
 	<ingredient name="leather" count="2"/>
 	<ingredient name="ductTape" count="1"/>
